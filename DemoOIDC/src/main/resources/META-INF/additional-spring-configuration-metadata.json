@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.cloud.azure.active-directory.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.azure.active-directory.enabled'"
+  },
+  {
+    "name": "timezone",
+    "type": "java.lang.String",
+    "description": "A description for 'timezone'"
+  },
+  {
+    "name": "azure.activedirectory.tenant-id",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.activedirectory.tenant-id'"
+  },
+  {
+    "name": "spring.cloude.azure.active-directory.app-id-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloude.azure.active-directory.app-id-uri'"
+  }
+]}
